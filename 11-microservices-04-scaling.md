@@ -43,7 +43,7 @@ Docker Swarm, масштабный Kebernetes. А если придется су
 https://dysnix.com/blog/kubernetes-vs-serverless-part-1
 ![Kuber1.PNG](Kuber1.PNG)
 ![Kuber2.PNG](Kuber2.PNG)
-![Kuber3.PNG](Kuber3.PNG)
+![Kuber3.PNG](Kuber3.png)
 ## Задача 2: Распределенный кэш * (необязательная)
 
 Разработчикам вашей компании понадобился распределенный кэш для организации хранения временной информации по сессиям пользователей.
